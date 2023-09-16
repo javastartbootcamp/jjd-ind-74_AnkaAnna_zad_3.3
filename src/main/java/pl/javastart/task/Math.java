@@ -9,7 +9,7 @@ class Math {
         return number %2==1 ;
     }
 
-    double circleField(double  r) {
+    double circleField(double r) {
         return 3.14 * r * r;
     }
 
